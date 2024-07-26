@@ -1,4 +1,3 @@
-```markdown
 # ShoppingCartDockerRestAPI
 
 ## Project Description
